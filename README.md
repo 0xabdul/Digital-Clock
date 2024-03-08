@@ -44,12 +44,15 @@
 <img src="https://github.com/0xabdul/Digital-Clock/assets/119418867/122a39a7-c112-4d54-a52c-985c83110288" height="750px"></img><br><br>
 
 
-## Links 🎯<br>
+# Links 🎯<br>
 
 <ul>
-  <li><a href="">Click Here</a></li>
-</ul>
+  <li><a href="https://0xabdul.github.io/Digital-Clock/">Click Here</a></li>
+</ul><br>
 
+
+# Author<br>
+- GITHUB - [@0xabdul](https://github.com/0xabdul)<br>
 
 
 
