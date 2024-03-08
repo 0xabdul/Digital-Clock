@@ -41,7 +41,7 @@
 ## Preview Screen Shots 📸 <br><br>
 
 
-<img src="https://github.com/0xabdul/Digital-Clock/assets/119418867/122a39a7-c112-4d54-a52c-985c83110288" height="500px"></img><br><br>
+<img src="https://github.com/0xabdul/Digital-Clock/assets/119418867/122a39a7-c112-4d54-a52c-985c83110288" height="400px"></img><br><br>
 
 # Links 🎯<br>
 
