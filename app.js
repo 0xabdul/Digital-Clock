@@ -9,7 +9,7 @@ setInterval(()=>{
     let gethour = data.getHours();
     let getminute = data.getMinutes();
     let getsecond = data.getSeconds();
-    hour.innerHTML = did(gethour);
+    hour.innerHTML = did(gethour>=12 ? gethour-12:gethour);
     minute.innerHTML = did(getminute);
     second.innerHTML = did(getsecond);
 })
